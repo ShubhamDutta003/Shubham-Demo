@@ -1,3 +1,3 @@
 # Shubham-Demo
-This is my repo
-Author - Shubham Dutta
+This is my repo <br>
+<strong>Author - Shubham Dutta</strong>
